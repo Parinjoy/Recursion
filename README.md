@@ -1,3 +1,3 @@
-<i>C++_ALGORITHMS</i>
-<i>All the applications of Recursion type of algorithm on C++</i>
-<i>.exe files coming soon!</i>
+C++_ALGORITHMS<br>
+All the applications of Recursion type of algorithm on C++<br>
+.exe files coming soon!
